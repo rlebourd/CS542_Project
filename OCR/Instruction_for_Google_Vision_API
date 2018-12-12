@@ -1,0 +1,7 @@
+https://cloud.google.com/vision/docs/quickstart-client-libraries#client-libraries-install-python
+
+https://cloud.google.com/python/setup
+
+
+export GOOGLE_APPLICATION_CREDENTIALS="[PATH]"
+source env/bin/activate
