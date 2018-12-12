@@ -1,0 +1,3 @@
+- cnn-door-posneg.py provides the implementation of the DoorLocalizer class, which builds a CNN in its constructor. The application can train the DoorLocalizer's CNN (which takes an 80x80 input image and classifies it as a door or not) via its Train method, and the application can perform the exhaustive-search algorithm (which involves reapplying the 80x80 CNN in a sliding-window fashion across a larger input image) via the FindDoors method.
+- build_door_data.m builds the door dataset from the CVC-FP data, required for training the DoorLocalizer class
+- This folder also contains the CVC-FP images utilized by build_door_data.py

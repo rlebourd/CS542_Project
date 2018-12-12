@@ -1,0 +1,2 @@
+- The MATLAB script flood_fill.m demonstrates the merge-and-split algorithm, leveraging the ground-truth images for room #1 (1-Door.png, 1-Separation.png, 1-Wall.png, 1-Window.png) in the CVC-FP dataset.
+- The FloodFill.py file provides a python implementation of the flood-fill step of the merge-and-split algorithm, but does not provide a complete implementation of the merge-and-split algorithm.
